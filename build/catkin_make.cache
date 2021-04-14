@@ -1,2 +1,0 @@
-kitti_gt_generator
--DCATKIN_DEVEL_PREFIX=/home/soyeong/carla_marker_ego_transform/devel -DCMAKE_INSTALL_PREFIX=/home/soyeong/carla_marker_ego_transform/install -G Unix Makefiles
