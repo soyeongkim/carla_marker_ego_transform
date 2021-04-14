@@ -1,0 +1,8 @@
+prefix=/home/soyeong/carla_marker_ego_transform/install
+
+Name: kitti_gt_generator
+Description: Description of kitti_gt_generator
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
